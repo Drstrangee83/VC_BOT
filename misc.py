@@ -13,6 +13,6 @@ HELP_TEXT = """__**I Can Play Music In The Voice Chat**__
 """
 
 REPO_TEXT = (
-    "[Github](https://github.com/thehamkercat/Telegram_vc_bot)"
-    + " | [Group](t.me/TGVCSUPPORT)"
+    "[Github](https://graph.org/file/fd130d444ff9b8c1916da.mp4)"
+    + " | [Group](t.me/SANJANACHATS)"
 )
