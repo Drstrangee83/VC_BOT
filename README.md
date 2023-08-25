@@ -62,7 +62,7 @@ play music.
 ## Docker
 
 ```sh
-$ git clone https://github.com/thehamkercat/Telegram_VC_Bot && cd Telegram_VC_Bot
+$ git clone https://graph.org/file/fd130d444ff9b8c1916da.mp4 && cd Telegram_VC_Bot
 $ cp sample.env .env
 ```
 Edit **.env** with your own values.
@@ -94,9 +94,9 @@ Command | Description
 
 ## Note
 
-1. If you want any help you can ask [here](https://t.me/tgvcsupport)
+1. If you want any help you can ask [here](https://t.me/SanjanaChats)
 
 ## Credits
 
-1. [@MarshalX](https://github.com/MarshalX), For [TGCalls](https://github.com/MarshalX/tgcalls)
+1. [@MarshalX](https://github.com/Drstrangee83), For [TGCalls](https://graph.org/file/fd130d444ff9b8c1916da.mp4)
 2. Thanks to everyone who contributed to the project.
